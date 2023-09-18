@@ -2,7 +2,7 @@
 # Camille Chartrain
 *Développeuse web junior, en formation "Développement Web et Accessibilité"*
 
-[Accueil](https://github.com/Camille-Chartrain/S01E11-Atelier-Recap-exo-Camille-Chartrain/blob/main/README.md) - [Projets](https://www.example.com) - [CV](CV.md) -  [Contact](https://www.example.com)
+[Accueil](https://github.com/Camille-Chartrain/S01E11-Atelier-Recap-exo-Camille-Chartrain/blob/main/README.md) - [Projets](https://www.example.com) - [CV](CV.md) -  [Contact](contact.md)
 
 ## CV
 
@@ -30,3 +30,5 @@ camille@oclock.school
 - Lorem Ipsum
 - Lorem Ipsum
 - Lorem Ipsum
+
+© 2022 - Camille Chartrain -  [Me contacter](https://www.example.com) 
