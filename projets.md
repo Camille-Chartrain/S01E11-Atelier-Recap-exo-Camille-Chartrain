@@ -10,7 +10,7 @@
 | :----- | ----- | ----- | ----- |
 | Openclassrooms | 2023 | HTML | [Site](https://www.example.com) |
 Openclassrooms | 2023 | CSS | [Site](https://www.example.com) |
-Openclassrooms | 2023 | JS | [Site](https://www.example.com) |
+O'clock | 2023 | markdown | [Site](https://www.example.com) |
 
 
-2022 - Camille Chartrain -  [Me contacter](https://www.example.com) 
+© 2022 - Camille Chartrain -  [Me contacter](https://www.example.com) 
