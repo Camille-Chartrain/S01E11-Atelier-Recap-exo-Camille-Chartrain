@@ -4,13 +4,29 @@
 
 [Accueil](https://github.com/Camille-Chartrain/S01E11-Atelier-Recap-exo-Camille-Chartrain/blob/main/README.md) - [Projets](https://www.example.com) - [CV](CV.md) -  [Contact](https://www.example.com)
 
-## Mes projets
+## CV
 
-| **Client** | **Dates** | **Technologies** | **Lien** |
-| :----- | ----- | ----- | ----- |
-| Openclassrooms | 2023 | HTML | [Site](https://www.example.com) |
-Openclassrooms | 2023 | CSS | [Site](https://www.example.com) |
-O'clock | 2023 | markdown | [Site](https://www.example.com) |
+### Camille Chartrain
 
+4 rue Haussmann
+92400 Courbevoie
 
-© 2022 - Camille Chartrain -  [Me contacter](https://www.example.com) 
+camille@oclock.school
+
+#### Expériences
+
+- 2022 - Lorem Ipsum
+- 2020 - Lorem Ipsum
+- 2019 - Lorem Ipsum
+
+#### Formation
+
+- 2022 - Lorem Ipsum
+- 2020 - Lorem Ipsum
+- 2019 - Lorem Ipsum
+
+#### Autres
+
+- Lorem Ipsum
+- Lorem Ipsum
+- Lorem Ipsum

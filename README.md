@@ -2,7 +2,8 @@
 # Camille Chartrain
 *Développeuse web junior, en formation "Développement Web et Accessibilité"*
 
-[Accueil](https://www.example.com) - [Projets](https://github.com/Camille-Chartrain/S01E11-Atelier-Recap-exo-Camille-Chartrain/blob/main/projets.md) - [CV](readme.md) -  [Contact](https://www.example.com)
+[Accueil](https://www.example.com) - [Projets](https://github.com/Camille-Chartrain/S01E11-Atelier-Recap-exo-Camille-Chartrain/blob/main/projets.md) - [CV]() -  [Contact](https://www.example.com)
+[Accueil](https://www.example.com) - [Projets](https://github.com/Camille-Chartrain/S01E11-Atelier-Recap-exo-Camille-Chartrain/blob/main/projets.md) - [CV](CV.md) -  [Contact](https://www.example.com)
 
 ## Présentation
 
